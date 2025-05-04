@@ -1,4 +1,3 @@
-// hw15b.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //Lei Zhang
 //CIS 1202 803
 //May 03 2025
@@ -26,10 +25,12 @@ int main(){
     double a = 7.0;
     float b = 5.0f;
     int c = 3;
+    int d = 9;
     
     cout << half(a) << endl;
     cout << half(b) << endl;
     cout << half(c) << endl;
+    cout << half(d) << endl;
     
     return 0;
 
